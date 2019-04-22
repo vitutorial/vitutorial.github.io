@@ -1,0 +1,20 @@
+waziz:
+    name: "Wilker Aziz"
+    bio: "Assistant professor at ILLC-UvA developing machine learning and natural language processing"
+    links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope-square"
+          url: "mailto:w.aziz@uva.nl"
+        - label: "Website"
+          icon: "fas fa-fw fa-link"
+          url: "https://wilkeraziz.github.io"
+        - label: "Twitter"
+          icon: "fas fa-fw fa-twitter-square"
+          url: "https://twitter.com/wilkeraziz"
+pschulz:
+    name: "Philip Schulz"
+    bio: "Research Scientist at Amazon developing efficient methods for approximate inference"
+    links:
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope-square"
+          url: "mailto:phschulz@amazon.com"

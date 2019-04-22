@@ -1,0 +1,13 @@
+main:
+    - title: "About"
+      url: /
+    - title: "Tour"
+      url: /tour/
+    - title: "Versions"
+      url: /versions/
+    - title: "Classes"
+      url: /classes/
+    - title: "Code"
+      url: /code/
+    - title: "Lecture notes"
+      url: /notes/
