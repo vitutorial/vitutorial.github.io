@@ -1,0 +1,22 @@
+
+<div class="media">
+  <div class="media-body" style="font-size: medium; ">
+    <!-- citation -->
+    {% if include.event.hosturl %}
+        <a href="{{ include.event.hosturl }}">{{ include.event.host }}</a><br/>
+    {% else %}
+        <font color="darkgray">{{ include.event.host }}</font><br/>
+    {% endif %}
+    {{ include.event.location }}. {{ include.event.date }}<br/>
+    {% if include.event.presenters %}{{ include.event.presenters }}.{% endif %}
+    {% if include.event.note %}<i>{{ include.event.note }}</i>{% endif %}
+
+    {% if include.event.desc %}
+    <a href="{{ include.event.desc }}" class="label label-info">[desc]</a>
+    {% endif %}
+
+    <br/>
+    <br/>
+
+  </div>
+</div>
