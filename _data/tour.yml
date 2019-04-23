@@ -1,0 +1,15 @@
+-
+  host: Yandex
+  series: NLP week
+  date: 26-28 March 2019
+  location: Moscow
+  presenters: Wilker Aziz
+  branch: yandex2019
+  site: /vitutorial/yandex
+- host: ACL
+  series: Tutorials
+  date: 15 July 2018
+  location: Melbourne
+  presenters: Philip Schulz and Wilker Aziz
+  branch: acl2018
+  site:
