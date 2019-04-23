@@ -13,7 +13,7 @@
     {% endif %}
     <br/>
     {{ include.event.date }}, {{ include.event.location }}. <br/>
-    {% if include.event.presenters %}<font color=“darkgray”>{{ include.event.presenters }}</font><br/>{% endif %}
+    {% if include.event.presenters %}{{ include.event.presenters }}<br/>{% endif %}
     {% if include.event.note %}<i>{{ include.event.note }}</i><br/>{% endif %}
 
     {% if include.event.desc %}
