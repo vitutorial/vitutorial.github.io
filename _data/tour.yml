@@ -4,7 +4,7 @@
   date: 26-28 March 2019
   location: Moscow
   presenters: Wilker Aziz
-  branch: yandex2019
+  github: yandex2019
   site: /vitutorial/yandex
 - 
   host: ACL
@@ -12,5 +12,4 @@
   date: 15 July 2018
   location: Melbourne
   presenters: Philip Schulz and Wilker Aziz
-  branch: acl2018
-  site:
+  github: acl2018
