@@ -6,7 +6,8 @@
   presenters: Wilker Aziz
   branch: yandex2019
   site: /vitutorial/yandex
-- host: ACL
+- 
+  host: ACL
   series: Tutorials
   date: 15 July 2018
   location: Melbourne
