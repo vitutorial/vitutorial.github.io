@@ -8,6 +8,14 @@
   presenters: Wilker Aziz
   github: https://github.com/philschulz/VITutorial/tree/yandex2019
   site: /tour/yandex2019
+-
+  host: AIPHES 
+  hosturl: https://www.informatik.tu-darmstadt.de/aiphes/aiphes/index.en.jsp
+  date: 29-30 November 2018
+  location: Heidelberg
+  presenters: Philip Schulz and Wilker Aziz
+  github: heidelberg2018
+  site: /tour/heidelberg2018
 - 
   host: ACL
   seriesurl: https://acl2018.org/tutorials
