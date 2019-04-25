@@ -1,6 +1,7 @@
 ---
 layout: single
 title: VI Tutorial at Yandex NLP Week
+toc: true
 ---
 
 
