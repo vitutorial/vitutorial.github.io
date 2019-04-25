@@ -8,7 +8,11 @@
         {{ include.event.host }}
     {% endif %}
     {% if include.event.series %}
+      {% if include.event.seriesurl %}
+        : <a href="{{ include.event.seriesurl }}">{{ include.event.series }}</a>
+      {% else %}
         : {{ include.event.series }}
+      {% endif %}
     {% else %}
     {% endif %}
     <br/>
