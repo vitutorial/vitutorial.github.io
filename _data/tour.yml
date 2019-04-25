@@ -1,6 +1,8 @@
 -
   host: Yandex
+  hosturl: https://research.yandex.com/
   series: NLP week
+  seriesurl: https://academy.yandex.ru/events/data_analysis/NLP_week/
   date: 26-28 March 2019
   location: Moscow
   presenters: Wilker Aziz
@@ -8,7 +10,7 @@
   site: /tour/yandex2019
 - 
   host: ACL
-  hosturl: https://acl2018.org/tutorials
+  seriesurl: https://acl2018.org/tutorials
   series: Tutorials
   date: 15 July 2018
   location: Melbourne
