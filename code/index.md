@@ -4,7 +4,7 @@ title: Code
 ---
 
 
-* MNIST
-* SST
-* SenVAE
+* MNIST: [mxnet](https://github.com/philschulz/VITutorial/blob/master/code/vae_notebook.ipynb), [pytorch](https://github.com/philschulz/VITutorial/blob/master/code/vae_notebook_pytorch.ipynb)
+* SST: [pytorch](https://github.com/probabll/dgm4nlp/tree/master/notebooks/sst)
+* SenVAE: [pytorch](https://github.com/probabll/dgm4nlp/tree/master/notebooks/sentencevae)
 

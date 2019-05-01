@@ -43,3 +43,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+author:
+    links:
+        - label: "Contributors"
+          icon: "fas fa-fw fa-link"
+          url: "contributors/"

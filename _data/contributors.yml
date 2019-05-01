@@ -1,4 +1,4 @@
-waziz:
+-
     name: "Wilker Aziz"
     bio: "Assistant professor at ILLC-UvA developing machine learning and natural language processing"
     links:
@@ -11,7 +11,7 @@ waziz:
         - label: "Twitter"
           icon: "fab fa-fw fa-twitter-square"
           url: "https://twitter.com/wilkeraziz"
-pschulz:
+-
     name: "Philip Schulz"
     bio: "Research Scientist at Amazon developing efficient methods for approximate inference"
     links:
