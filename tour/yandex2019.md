@@ -22,7 +22,7 @@ Check the branch `yandex2019` for all [modules](https://github.com/philschulz/VI
 
 **Day 3**
 * [Continuous latent variables](https://github.com/philschulz/VITutorial/blob/yandex2019/modules/M3b_VAE/M3b_VAE.pdf)
-* Practice: jupyter notebook on continuous latent variables
+* Practice: [jupyter notebook on continuous latent variables](https://github.com/probabll/dgm4nlp/tree/master/notebooks/sentencevae)
 
 # Advices
 
