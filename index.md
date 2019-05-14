@@ -5,7 +5,7 @@ title: About
 ---
 
 
-Neural networks are taking NLP by storm. Yet they are mostly applied in contexts were we have complete supervision. Many real-world NLP problems require unsupervised or semi-supervised models, however, because annotated data is hard to obtain. This is where generative models shine. Through the use of latent variables they can be applied in missing data settings. Furthermore they can complete missing entries in partially annotated data sets. 
+Neural networks are taking NLP by storm. Yet they are mostly applied in contexts where we have complete supervision. Many real-world NLP problems require unsupervised or semi-supervised models, however, because annotated data is hard to obtain. This is where generative models shine. Through the use of latent variables they can be applied in missing data settings. Furthermore they can complete missing entries in partially annotated data sets. 
 
 
 So, [we](contributors/) have designed a *tutorial on variational inference and deep generative models for NLP audiences*. 
