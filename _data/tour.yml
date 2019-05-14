@@ -1,4 +1,12 @@
 -
+  host: Instituto Superior Tecnico
+  hosturl: https://tecnico.ulisboa.pt/pt/
+  series: DeepSPIN
+  seriesurl: https://andre-martins.github.io
+  date: 27-29 May 2019
+  location: Lisbon
+  presenters: Wilker Aziz
+-
   host: Yandex
   hosturl: https://research.yandex.com/
   series: NLP week
