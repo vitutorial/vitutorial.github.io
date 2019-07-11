@@ -21,7 +21,7 @@
   date: 26-28 March 2019
   location: Moscow
   presenters: Wilker Aziz
-  github: https://github.com/philschulz/VITutorial/tree/yandex2019
+  github: https://github.com/vitutorial/VITutorial/tree/yandex2019
   site: /tour/yandex2019
 -
   host: University of Heidelberg
@@ -39,6 +39,6 @@
   date: 15 July 2018
   location: Melbourne
   presenters: Philip Schulz and Wilker Aziz
-  github: https://github.com/philschulz/VITutorial/tree/acl2018
+  github: https://github.com/vitutorial/VITutorial/tree/acl2018
   site: /tour/acl2018
   desc: https://acl2018.org/tutorials/#variational-inference-and-d
