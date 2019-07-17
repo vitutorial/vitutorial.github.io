@@ -31,7 +31,9 @@
   location: Heidelberg
   presenters: Philip Schulz and Wilker Aziz
   github: heidelberg2018
-  site: /tour/heidelberg2018
+  
+  [//]: <> site: /tour/heidelberg2018
+
 - 
   host: ACL
   seriesurl: https://acl2018.org/tutorials
@@ -40,5 +42,7 @@
   location: Melbourne
   presenters: Philip Schulz and Wilker Aziz
   github: https://github.com/vitutorial/VITutorial/tree/acl2018
-  site: /tour/acl2018
+  
+  [//]: <>  site: /tour/acl2018
+  
   desc: https://acl2018.org/tutorials/#variational-inference-and-d
