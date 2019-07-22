@@ -3,6 +3,7 @@
   date: 12 July 2019
   location: Seattle
   presenters: Philip Schulz
+  slides: https://github.com/vitutorial/VITutorial/tree/amlc_work
 -
   host: Instituto Superior Tecnico
   hosturl: https://tecnico.ulisboa.pt/pt/
@@ -30,7 +31,6 @@
   date: 29-30 November 2018
   location: Heidelberg
   presenters: Philip Schulz and Wilker Aziz
-  github: heidelberg2018
 - 
   host: ACL
   seriesurl: https://acl2018.org/tutorials
