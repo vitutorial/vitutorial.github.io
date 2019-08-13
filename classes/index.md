@@ -4,11 +4,13 @@ title: Classes
 ---
 
 * Deep generative models
+    * [Introduction](https://github.com/vitutorial/tour/blob/master/modules/Introduction/master.pdf)
 * Variational inference
-    * [Foundations](https://github.com/vitutorial/VITutorial/blob/master/modules/M1_Basics/M1_Basics.pdf)
-    * [Discrete latent variables](https://github.com/vitutorial/VITutorial/blob/master/modules/M3b_DGMs_DiscreteVariables/M3b_DGMs_DiscreteLatentVariables.pdf)
-    * [Continuous latent variables](https://github.com/vitutorial/VITutorial/blob/master/modules/M3a_DGMs_ContinuousLatentVariables/M3a_DGMs_ContinuousLatentVariables.pdf)
+    * [Foundations](https://github.com/vitutorial/tour/blob/master/modules/VI/master.pdf)
+    * [Discrete latent variables](https://github.com/vitutorial/tour/blob/master/modules/DGMs-Discrete/master.pdf)
+    * [Continuous latent variables](https://github.com/vitutorial/tour/blob/master/modules/DGMs-Continuous/master.pdf)
 * Advanced topics
-    * [Normalising flows](https://github.com/vitutorial/VITutorial/blob/master/modules/M7_NormalisingFlows/M7_NormalisingFlows.pdf)
-    * [Automatic differentiation variational inference](https://github.com/vitutorial/VITutorial/blob/master/modules/M6_ADVI/M6_ADVI.pdf)
+    * [Automatic differentiation variational inference](https://github.com/vitutorial/tour/blob/master/modules/ADVI/master.pdf)
+    * [Normalising flows](https://github.com/vitutorial/tour/blob/master/modules/NFs/master.pdf)
+    * [Relaxations to discrete lantent variables](https://github.com/vitutorial/tour/blob/master/modules/DGMs-Relaxations/master.pdf)
 
