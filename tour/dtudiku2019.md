@@ -8,7 +8,8 @@ The VITutorial was invited to the [DTU-DIKU 2019 Summer School on Generative Mod
 
 
 * [Discrete latent variables](https://github.com/vitutorial/tour/blob/DTU-DIKU-2019/modules/DGMs-Discrete/master.pdf)
-* Relaxations to discrete latent variables
+* [Relaxations to discrete latent variables](https://github.com/vitutorial/tour/blob/DTU-DIKU-2019/modules/DGMs-Relaxations/master.pdf)
+* Exercise: [latent rationales for sentiment classification](https://github.com/vitutorial/exercises.git)
 
 # Further reading
 
