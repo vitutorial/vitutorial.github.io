@@ -1,4 +1,12 @@
 -
+  host: University of Alicante 
+  hosturl: http://summer-school-gan.compute.dtu.dk
+  date: 21-23 January 2020
+  location: Alicaten, Spain
+  presenters: Bryan Eikema and Wilker Aziz
+  site: /tour/ua2020
+  github: https://github.com/vitutorial/tour/tree/UA2020
+-
   host: DTU-DIKU 2019 Summer School on Generative Models
   hosturl: http://summer-school-gan.compute.dtu.dk
   date: 12-16 August 2019
